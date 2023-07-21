@@ -9,8 +9,8 @@ The workflow of the project will be as followed:
 1. Exploratory Data Analysis
 2. Data Cleaning
 3. Feature Engineering
-4. Training models
-5. Validating models
-6. Deploying best model on an application
+4. Model Development
+5. Model Validation
+6. Model Deployment
 
 
